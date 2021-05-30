@@ -27,6 +27,7 @@ API Gateway is used to separate the client interface from the backend implementa
 - Gateway with aggregation. KrackenD connects a lot of backend services to a single endpoint.
 - Great fit for Mobile Applications.
 - Stateless. There is no need for a centralized database. Nodes need not communicate with each other.
+- Extensions are build using Go, Lua, etc., 
 
 ## Comparison
 
